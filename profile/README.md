@@ -21,6 +21,5 @@ This is the official GitHub organization page of **Green & White**, which hosts 
 | **Name**                 | **Role**                 | **DLSU Email**                      | **GitHub**        |
 |--------------------------|---------------------------|--------------------------------------|-------------------|
 | Ramon Enrico Martinez    | Web Manager               | ramon_martinez@dlsu.edu.ph          | [`@raymrtnz`](https://github.com/raymrtnz)       |
-| Danielle Faith Ang       | Web Assistant Manager     | danielle_ang@dlsu.edu.ph            | [`@daannyyelllaa`](https://github.com/daannyyelllaa)  |
 
 For partnerships or inquiries, email [gwexternals@dlsu.edu.ph](mailto:gwexternals@dlsu.edu.ph).
