@@ -22,4 +22,4 @@ This is the official GitHub organization page of **Green & White**, which hosts 
 |--------------------------|---------------------------|--------------------------------------|-------------------|
 | Ramon Enrico Martinez    | Web Manager               | ramon_martinez@dlsu.edu.ph          | [`@raymrtnz`](https://github.com/raymrtnz)       |
 
-For partnerships or inquiries, email [gwexternals@dlsu.edu.ph](mailto:gwexternals@dlsu.edu.ph).
+For partnerships or inquiries, email [gw@dlsu.edu.ph](mailto:gw@dlsu.edu.ph).
