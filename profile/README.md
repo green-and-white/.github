@@ -20,6 +20,6 @@ This is the official GitHub organization page of **Green & White**, which hosts 
 
 | **Name**                 | **Role**                 | **DLSU Email**                      | **GitHub**        |
 |--------------------------|---------------------------|--------------------------------------|-------------------|
-| Ramon Enrico Martinez    | Web Manager               | ramon_martinez@dlsu.edu.ph          | [`@raymrtnz`](https://github.com/raymrtnz)       |
+| Johan Marlo Cabili       | Web Manager               | johan_marlo_t_cabili@dlsu.edu.ph        | [`@jmtcabili`](https://github.com/jmtcabili)       |
 
 For partnerships or inquiries, email [gw@dlsu.edu.ph](mailto:gw@dlsu.edu.ph).
